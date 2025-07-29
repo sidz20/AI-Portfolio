@@ -47,8 +47,8 @@ Guided students through data manipulation, visualization, and machine learning e
 - **Email:** mfachrurasyid@gmail.com | mfachrurasyid@outlook.com
 - **LinkedIn:**[linkedin.com/in/fachrur](https://www.linkedin.com/in/fachrurrasyid)  
 - **GitHub:** [github.com/sidz20](https://github.com/sidz20)  
-- **CV:** [📄 Download CV_EN](https://github.com/fachrur/AI-portfolio/blob/main/CV_Muhammad_Fachrur_Rasyid_EN.pdf?raw=true)
--  [📄 Download CV_ID](https://github.com/fachrur/ai-portfolio/blob/main/CV_Muhammad_Fachrur_Rasyid_ID.pdf?raw=true)
+- **CV:** [📄 Download CV_English Version]([https://github.com/fachrur/AI-portfolio/blob/main/CV_Muhammad_Fachrur_Rasyid_EN.pdf?raw=true](https://github.com/sidz20/AI-Portfolio/blob/main/CV%20Muhammad%20Fachrur%20Rasyid_EN.pdf))
+- **CV:** [📄 Download CV_Indonesian Version](https://github.com/sidz20/AI-Portfolio/blob/main/CV%20MUHAMMAD%20FACHRUR%20RASYID_ID.pdf)
 ---
 
 > *“Building intelligent solutions, one model at a time.”*
