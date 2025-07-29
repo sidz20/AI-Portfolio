@@ -44,7 +44,7 @@ Guided students through data manipulation, visualization, and machine learning e
 ---
 
 ## 📫 Contact
-- **Email:** mfachrurasyid@gmail.com  
+- **Email:** mfachrurasyid@gmail.com | mfachrurasyid@outlook.com
 - **LinkedIn:**[linkedin.com/in/fachrur](https://www.linkedin.com/in/fachrurrasyid)  
 - **GitHub:** [github.com/sidz20](https://github.com/sidz20)  
 
